@@ -52,7 +52,7 @@ height: 50px;
 
 }
 .your{
-    padding-left: 350px;
+    padding-left: 850px;
     display: center;
     width: 594px;
     color: rgba(39, 39, 39, 0.60);
@@ -64,27 +64,122 @@ height: 50px;
   line-height: 30px;
 }
 .img-container{
+    padding-left: 1%;
+    margin: auto;
     display: flex;
-    display:center;
+ 
     border:white ;
-    width: 1920px;
-    height: 4867px;
+    width:1000px;
+    height:600px;
 }
 .img-a{
+    padding:24px ;
     width: 370px;
     height: 471px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
  .img-b{
+    padding:24px ;
    width:370px;
    height: 471px;
    border-radius: 300px 300px 0px 0px;
    background: rgba(5, 151, 160, 0.15);
  }
  .img-c{
+    padding-right: 20px;
+    padding:24px ;
     width: 370px;
     height:471px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
  }
+ .small-img{
+display: flex;
+padding: left 10px;px;
+align-items: center;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+ }
+ .rose{
+    padding: 90px;
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+ }
+.rose-small{
+
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+.rose-smaller{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.red-rose{
+  padding: 100px;
+  display: center; 
+  border-radius: 10px;
+  box-position: padding-right
+
+}
+.insta{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.insta-box{
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding: 50px;
+margin-top: 10px;
+}
+.flower-gerden{
+    display: flex;
+    padding: px;
+    width: 342px;
+    height: 396px;
+    
+}
+.Flower-a{
+    padding: 30px;
+}
+.Flower-b{
+    padding: 30px;
+}
+.Flower-c{
+    padding: 30px;
+}
+
+.Flower-d{
+
+    padding: 30px;
+}
+
+
+}
