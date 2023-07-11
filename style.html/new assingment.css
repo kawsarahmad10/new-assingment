@@ -181,5 +181,55 @@ margin-top: 10px;
     padding: 30px;
 }
 
+.your-flower{
+    
+    width: 1440px;
+    height: 449px;
+    background-image: url("Rectangle 9.png");
+    background-color: ;
+    border-radius: 8px;
+}
+.last-work{
+    display: flex;
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+}
 
+.tu-mera-koi{
+    display: flex;
+}
+
+
+.ses-hoy-nah{
+    
+ display: flex;   
+ color: rgba(255, 255, 255, 0.90);
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.arkoto{
+    display: flex;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.arakto{
+    display: flex;
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
